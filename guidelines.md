@@ -1,5 +1,5 @@
 
-Các topic không nên tạo trong http://daynhauhoc.com/c/programming
+## Các topic không nên tạo trong [programming](http://daynhauhoc.com/c/programming)
 
  - Nhờ giải bài tập.
  - Đăng ảnh chụp bài tập và nhờ giải. 
