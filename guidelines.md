@@ -12,3 +12,10 @@
  - Đặt tiêu đề không rõ ràng
  - Không đặt đúng tag cho topic
  - Chia sẻ phần mềm crack
+
+
+## Các bình luận không nên viết trong Dạy Nhau Học
+
+- Bình luận xúc phạm, kích động người khác
+- Bình luận về chính trị, tôn giáo, phân biệt vùng miền
+- Bình luận về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
