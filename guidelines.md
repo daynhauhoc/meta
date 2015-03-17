@@ -1,6 +1,18 @@
 # 1. Quy định chung
 
-## 1.1 Nguyên tắc viết thông tin mới lên Dạy Nhau Học (DNH)
+## 1.1 Nguyên tắc đặt tên khi đăng ký thành viên tại Dạy Nhau Học (DNH)
+
+Khi tham gia DNH, bạn cần tuân thủ những điều sau trước khi đặt tên tài khoản:
+
+- Tên rõ ràng, lành mạnh.
+
+- Tên không được xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
+
+- Tên không được mang ý nghĩa phản động, phản nhà nước CHXHCN Việt Nam, đồi trụy.
+
+- Khuyến khích tên viết tắt, ngắn ngọn, dễ hiểu.
+
+## 1.2 Nguyên tắc viết thông tin mới lên Dạy Nhau Học (DNH)
 
 Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắt sau:
 
@@ -10,21 +22,32 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 
 - Không viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
 
-## 1.2 Quy định khi tạo topic mới
+## 1.3 Quy định khi tạo topic mới
 
 ### Đặt tiêu đề rõ ràng 
-> tiêu đề phải giải thích rõ vấn đề, không đặt những tiêu đề chung chung như giúp mình với, cứu ...
+- tiêu đề phải giải thích rõ vấn đề, không đặt những tiêu đề chung chung như giúp mình với, cứu ...
 
 ### Đặt đúng tag cho topic
-> Vui lòng xem quy tắc đặt tag chính xác cho từng category
+- Vui lòng xem quy tắc đặt tag chính xác cho từng category
 
 ### Không chia sẻ phần mềm crack
-> Tất cả các topic chia sẽ phần mềm crack sẽ bị xóa ngay lập tức.
+- Tất cả các topic chia sẽ phần mềm crack sẽ bị xóa ngay lập tức.
 
-> Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
+- Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
 
-## 1.3 Trả lời
+## 1.4 Trả lời
 
+- Trả lời đúng đề tài, không lang man, không lạc đề gây loãng.
+
+- Nội dung trả lời tuyệt đối không phải như cuộc trò chuyện, "chém gió".
+
+- Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dễ và trả lời nhiều người bằng 1 bài viết duy nhất).
+
+- Nội dung trả lời phải văn hóa, chuẩn mực.
+
+- Nội dung trả lời không tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
+
+- Nội dung trả lời không bàn về vấn đề phản động, chính trị, tôn giáo.
 
 # 2. Quy định từng category
 
