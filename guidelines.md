@@ -5,22 +5,19 @@
 Khi tham gia DNH, bạn cần tuân thủ những điều sau trước khi đặt tên tài khoản:
 
 - Tên rõ ràng, lành mạnh.
-
 - Tên không được xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
-
 - Tên không được mang ý nghĩa phản động, phản nhà nước CHXHCN Việt Nam, đồi trụy.
-
 - Khuyến khích tên viết tắt, ngắn ngọn, dễ hiểu.
 
 ## 1.2 Nguyên tắc viết thông tin mới lên Dạy Nhau Học (DNH)
 
 Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắt sau:
 
-- Không xúc phạm, kích động người khác
-
-- Không viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền
-
-- Không viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
+- PHẢI viết đúng văn hóa, chuẩn mực.
+- KHÔNG xúc phạm, kích động người khác
+- KHÔNG viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền
+- KHÔNG viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
+- KHÔNG viết tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác
 
 ## 1.3 Quy định khi tạo topic mới
 
@@ -38,16 +35,8 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 ## 1.4 Trả lời
 
 - Trả lời đúng đề tài, không lang man, không lạc đề gây loãng.
-
 - Nội dung trả lời tuyệt đối không phải như cuộc trò chuyện, "chém gió".
-
-- Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dễ và trả lời nhiều người bằng 1 bài viết duy nhất).
-
-- Nội dung trả lời phải văn hóa, chuẩn mực.
-
-- Nội dung trả lời không tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
-
-- Nội dung trả lời không bàn về vấn đề phản động, chính trị, tôn giáo.
+- Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dẫn và trả lời nhiều người bằng 1 bài viết duy nhất).
 
 # 2. Quy định từng category
 
@@ -55,12 +44,10 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 
 ### Nhờ giải bài tập
 - Nên đưa ra giải pháp của mình trước
-
 - Sau đó đưa ra vấn đề mình đang mắc phải và nhờ giải đáp
 
 ### Không đăng ảnh chụp bài tập và nhờ giải
 - Nên gửi câu hỏi ở dạng văn bản
-
 - Xem "nhờ giải bài tập" ở trên
 
 ### Code phải cho vào code block
