@@ -54,17 +54,17 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 ## 2.1 [programming](http://daynhauhoc.com/c/programming)
 
 ### Nhờ giải bài tập
-> Nên đưa ra giải pháp của mình trước
+- Nên đưa ra giải pháp của mình trước
 
-> Sau đó đưa ra vấn đề mình đang mắc phải và nhờ giải đáp
+- Sau đó đưa ra vấn đề mình đang mắc phải và nhờ giải đáp
 
 ### Không đăng ảnh chụp bài tập và nhờ giải
-> Nên gửi câu hỏi ở dạng văn bản
+- Nên gửi câu hỏi ở dạng văn bản
 
-> Xem "nhờ giải bài tập" ở trên
+- Xem "nhờ giải bài tập" ở trên
 
 ### Code phải cho vào code block
-> Xem [hướng dẫn sử dụng Markdown ở đây](http://daynhauhoc.com/t/cach-post-code-dung-markdown-trong-category-programming/112)
+- Xem [hướng dẫn sử dụng Markdown ở đây](http://daynhauhoc.com/t/cach-post-code-dung-markdown-trong-category-programming/112)
 
 ### Đặt tag cho topic
-> Đặt tag topic theo ngôn ngữ của code. Ví dụ: c, c-sharp, php, java, javascript,...
+- Đặt tag topic theo ngôn ngữ của code. Ví dụ: c, c-sharp, php, java, javascript,...
