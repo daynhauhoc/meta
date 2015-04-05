@@ -35,8 +35,8 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 ## 1.4 Trả lời
 
 - Trả lời đúng đề tài, không lang man, không lạc đề gây loãng.
-- Nội dung trả lời tuyệt đối không phải như cuộc trò chuyện, "chém gió".
-- Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dẫn và trả lời nhiều người bằng 1 bài viết duy nhất).
+- Nội dung trả lời tuyệt đối không phải như cuộc trò chuyện, "chém gió". Tránh các trả lời như "hóng", "đặt gạch hóng".
+- Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dẫn và trả lời nhiều người bằng 1 bài viết duy nhất). Nhưng nếu hai post cách nhau 1h trở lên thì bạn có thể post một post mới.
 
 # 2. Quy định từng category
 
