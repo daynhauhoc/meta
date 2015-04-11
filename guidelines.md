@@ -24,6 +24,9 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 ### Đặt tiêu đề rõ ràng 
 - tiêu đề phải giải thích rõ vấn đề, không đặt những tiêu đề chung chung như giúp mình với, cứu ...
 
+### Nêu rõ nội dung cần hỏi
+- Tránh tình trạng chỉ post code mà không nói rõ code này làm gì, lỗi ở đâu
+
 ### Đặt đúng tag cho topic
 - Vui lòng xem quy tắc đặt tag chính xác cho từng category
 
