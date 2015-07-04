@@ -1,21 +1,31 @@
+Thanks for joining Dạy Nhau Học, and welcome!
+
 Một vài mẹo để bắt đầu sử dụng DNH.
 
+
 ## Cứ cuộn xuống
-
 DNH không phân trang, không có có nút chuyển trang – để đọc nhiều hơn, **cứ cuộn xuống!**
-
 Nếu có bài mới, bài mới sẽ tự động hiện ra.
+
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/8/8ab4566e7cd9d2f8908c4d1b9290a47db11fb085.gif" width="600" height="360"> </div>
 
 ## Tôi đang ở đâu?
 
-- Để tìm kiếm, xem thông tin cá nhân, hoặc mở menu bấm vào **icon <kbd>☰</kbd> ở phía trên, bên phải**.
+- Để tìm kiếm, xem thông tin cá nhân, hoặc mở menu <kbd>☰</kbd> 
+ bấm vào **các icon ở phía trên, bên phải**.
+
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/8/8665d02f42ac2bf82ce2a0bcd24b492938167e9a.gif" width="600" height="472"> </div>
+
 
 - Bấm vào tên của mỗi topic, bạn sẽ tự động nhảy tới post chưa đọc trong topic đó. Trên mỗi dòng có chứa tên topic, bấm vào Activity bạn sẽ nhảy đến post cuối, bấm vào Post bạn sẽ nhảy đến bài đầu, hoặc bài cuối của topic.
 
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/a/a5bd8891562f8d768b7ef248a2c099d90e7cf458.gif" width="366" height="127"> </div>
+
+
 - Khi đọc một topic, nhảy lên top &uarr; bằng cách bấm vào tên topic. Chọn vào thanh progress màu xanh lá cây ở phía dưới bên phải để chọn post muốn nhảy tới. Hoặc bấm nút <kbd>home</kbd> và <kbd>end</kbd>.
 
-    <img src="/images/welcome/progress-bar.png" width="143" height="39">
-
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/0/0a7629d0ca099c3ec40f8bb5b40586bcab57a41c.gif" width="430" height="217"> </div>
+ 
 ## Làm sao trả lời bài viết?
 
 - Để reply chung cho cả topic, bấm nút Reply <img src="/images/welcome/reply-topic.png" width="29" height="25"> ở cuối trang.
@@ -24,15 +34,18 @@ Nếu có bài mới, bài mới sẽ tự động hiện ra.
 
 - Để tách một thảo luận đi theo một hướng khác, nhưng vẫn muốn thảo luận mới liên kết với thảo luận cũ, bấm <img src="/images/welcome/reply-as-linked-topic.png" width="15" height="25"> Reply as linked Topic ở phía bên phải của mỗi post
 
-Để quote bài viết của người khác, chọn đoạn chữ mà bạn muốn quote, sau đó bấm vào nút Reply (nút Reply nào cũng được)
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/9/9cabcae22cb1bcb8037d79bf4e33f8de3a8de196.gif" width="516" height="217"> </div>
 
-<img src="/images/welcome/quote-reply.png" width="350" height="129">
+Để quote bài viết của người khác, chọn đoạn chữ mà bạn muốn quote, sau đó bấm vào nút Reply (nút Reply nào cũng được)
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/7/72a0397f201a94026150400b00943b453130c26e.gif" width="652" height="372"> </div>
 
 Để nhắc tới một người khác trong reply của bạn. Gõ `@` và gõ tên của họ tiếp theo sau đó.
 
-<img src="/images/welcome/username-completion.png" width="230" height="131">
+<div align=center><img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/7/7da5151bb9a405a71bef836d62fd45084ed40147.gif" width="304" height="203">  </div>
 
 Để dùng [standard Emoji](http://www.emoji.codes/), chỉ cần gõ `:` hoặc `:)` :smile:
+<img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/f/f342c3e64c493ae59cd0e8b8dcae210ccbfc55a3.gif" width="690" height="130"> 
+
 
 ## Ngoài ra tôi còn có thể làm gì?
 
@@ -60,6 +73,15 @@ Bạn sẽ thấy chữ new màu xanh da trời và số lượng bài mới tro
 
 Bạn cũng có thể thay đổi trạng thái thông báo của mỗi topic thông qua nút điều khiển ở phía dưới của một topic (hoặc có thể chỉnh cho mỗi category). Để thay đổi cách theo dõi một topic, hoặc định nghĩa như thế nào là topic mới, xem [user preferences](/my/preferences).
 
+<img src="//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/6/65a001ed3a333360d409812ad0bc5cc1fca59735.gif" width="499" height="273"> 
+
 ## Tại sao tôi không thể làm một số thứ?
 
 User mới bị giới hạn tính năng vì lý do an toàn. Bạn tham gia càng lâu, bạn sẽ được cộng đồng tin tưởng nhiều hơn. Khi đó, các giới hạn sẽ bị gỡ bỏ. Ở mỗi mức trust khác nhau, bạn sẽ có thêm nhiều quyền hạn mới, đọc thêm [trust level](http://daynhauhoc.com/t/trust-level-ho-t-d-ng-nh-th-nao/14/9)
+
+
+We believe in [civilized community behavior](http://daynhauhoc.com/guidelines) at all times.
+
+Enjoy your stay!
+
+(If you need to privately communicate with [staff members](http://daynhauhoc.com/about) as a new user, just reply to this private message.)
