@@ -14,7 +14,7 @@ Khi tham gia DNH, bạn cần tuân thủ những điều sau trước khi đặ
 
 Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắt sau:
 
-- PHẢI viết đúng văn hóa, chuẩn mực.
+- PHẢI viết đúng văn hóa, chuẩn mực. Không sử dụng ngôn ngữ teen.
 - KHÔNG xúc phạm, kích động người khác
 - KHÔNG viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền
 - KHÔNG viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
