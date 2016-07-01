@@ -36,6 +36,11 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 
 - Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
 
+### Không chia sẻ link rút gọn bắt người click xem quảng cáo
+- Các topic này sẽ bị khóa, hoặc xóa.
+- Được phép post link reference
+- Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
+
 ## 1.4 Trả lời
 
 - Trả lời đúng đề tài, không lang man, không lạc đề gây loãng.
