@@ -1,24 +1,23 @@
 
 # 1. Quy định chung
 
-## 1.1 Nguyên tắc đặt tên khi đăng ký thành viên tại Dạy Nhau Học (DNH)
+## 1.1 Nguyên tắc đặt tên khi đăng ký thành viên tại diễn đàn Dạy Nhau Học (DNH)
 
 Khi tham gia DNH, bạn cần tuân thủ những điều sau trước khi đặt tên tài khoản:
 
-- Tên rõ ràng, lành mạnh.
-- Tên không được xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
+- Tên rõ ràng, lành mạnh, không xúc phạm đến tôn giáo hay các thành viên khác.
 - Tên không được mang ý nghĩa phản động, phản nhà nước CHXHCN Việt Nam, đồi trụy.
 - Khuyến khích tên viết tắt, ngắn ngọn, dễ hiểu.
 
 ## 1.2 Nguyên tắc viết thông tin mới lên Dạy Nhau Học (DNH)
 
-Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắt sau:
+Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắc sau:
 
 - PHẢI viết đúng văn hóa, chuẩn mực. Không sử dụng ngôn ngữ teen.
-- KHÔNG xúc phạm, kích động người khác
-- KHÔNG viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền
-- KHÔNG viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam
-- KHÔNG viết tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác
+- KHÔNG xúc phạm, kích động người khác.
+- KHÔNG viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền.
+- KHÔNG viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam.
+- KHÔNG viết tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
 
 ## 1.3 Quy định khi tạo topic mới
 
@@ -33,17 +32,16 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 
 ### Không chia sẻ phần mềm crack
 - Tất cả các topic chia sẽ phần mềm crack sẽ bị xóa ngay lập tức.
-
-- Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
+- Nếu tài khoản nào lặp lại hành động này nhiều lần sẽ bị khóa.
 
 ### Không chia sẻ link rút gọn bắt người click xem quảng cáo
 - Các topic này sẽ bị khóa, hoặc xóa.
 - Được phép post link reference
-- Tài khoản nếu nào nếu lặp lại hành động này nhiều lần sẽ bị khóa
+- Nếu tài khoản nào lặp lại hành động này nhiều lần sẽ bị khóa.
 
 ## 1.4 Trả lời
 
-- Trả lời đúng đề tài, không lang man, không lạc đề gây loãng.
+- Trả lời đúng đề tài, không lan man, không lạc đề gây loãng.
 - Nội dung trả lời tuyệt đối không phải như cuộc trò chuyện, "chém gió". Tránh các trả lời như "hóng", "đặt gạch hóng".
 - Không được trả lời liên tiếp nhiều bài liên tiếp (bạn có thể trích dẫn và trả lời nhiều người bằng 1 bài viết duy nhất). Nhưng nếu hai post cách nhau 1h trở lên thì bạn có thể post một post mới.
 
