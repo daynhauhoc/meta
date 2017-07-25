@@ -29,6 +29,7 @@ Tất cả các thông tin đăng lên DNH phải tôn trọng các nguyên tắ
 
 - PHẢI viết đúng văn hóa, chuẩn mực. Không sử dụng ngôn ngữ teen.
 - KHÔNG xúc phạm, kích động người khác.
+- KHÔNG chia sẻ sách, tài liệu vi phạm bản quyền.
 - KHÔNG viết về vấn đề chính trị, tôn giáo, phân biệt vùng miền.
 - KHÔNG viết về các nội dung nhạy cảm, vi phạm thuần phong mỹ tục của Việt Nam.
 - KHÔNG viết tục tiểu, đồi trụy, xúc phạm danh dự, phẩm chất, tinh thần đến nhà nước, tôn giáo và thành viên khác.
