@@ -21,7 +21,7 @@ Khi tham gia DNH, bạn cần tuân thủ những điều sau trước khi đặ
   - Tên dùng cách viết sai chính tả hoặc dùng tên chế xuất phát từ các loại tên bên trên.
 - Khuyến khích tên viết tắt, ngắn ngọn, dễ hiểu.
 
-Tên vi phạm quy định đặt tên sẽ được cảnh báo trước 48h. Nếu không thể giải thích được nội dung vi phạm sẽ bị sử lý theo luật diễn đàn.
+Tên vi phạm quy định đặt tên sẽ được cảnh báo trước 48h. Nếu không thể giải thích được nội dung vi phạm sẽ bị xử lý theo luật diễn đàn.
 
 ## 1.2 Quy định khi tạo topic mới tại diễn đàn DNH
 
